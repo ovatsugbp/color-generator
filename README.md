@@ -1,5 +1,5 @@
 # Color Generator
-8th of 15 React Projects following [John Smilga](https://github.com/john-smilga/react-projects) tutorial from FreeCodeCamp course. This project was built using UseState to capture the input value and provide a color list based on a Hex number typed by the user. The application is rendering the color passed, 10 shades above, until black, and 10 shades below, until white. If you click in one color the hex value is copied to your clipboard and this message is shown to the user by 3sec and then useEffect cleans the message in the interface. 
+8th of 15 React Projects following [John Smilga](https://github.com/john-smilga/react-projects) tutorial from FreeCodeCamp course. This project was built using UseState to capture the input value and provide a color list based on a Hexadecimal number typed by the user. The application is rendering the color passed, 10 shades above, until black, and 10 shades below, until white. If you click in one color the hexadecimal value is copied to your clipboard and this message is shown to the user by 3sec and then useEffect cleans the message in the interface. A small validation has been coded, so if the user passes an invalid hexadecimal number the border of the input field will be displayed in red.
 
 ### 🛠 Tools:
 - React
